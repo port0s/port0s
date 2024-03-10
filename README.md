@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Hello, i'm pot0s! :brazil:
+## Hello, i'm port0s! :brazil:
 
 
 ## Technologies :computer:
