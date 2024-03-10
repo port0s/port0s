@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**port0s/port0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, i'm pot0s! :brazil:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies :computer:
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=bf91f3)
+![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=bf91f3)
+![](https://img.shields.io/badge/Editor-NeoVim-informational?style=flat&logo=NeoVim&logoColor=white&color=bf91f3)
+![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=bf91f3)
+
+## Learning :book:
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=bf91f3)
+
+## I Like :wave:
+![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&logoColor=white&color=bf91f3)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=bf91f3)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=bf91f3)
+
+
+
+- 🌱 Estudando Python
+- 😄 Pronouns: ele/dele
+
+
